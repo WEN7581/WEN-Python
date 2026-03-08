@@ -1,0 +1,1 @@
+python cc.py -url https://www.ekwing.com -m cc -t 1000 -s 600 -b 1
